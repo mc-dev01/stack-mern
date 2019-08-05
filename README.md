@@ -1,4 +1,4 @@
-# Ada - Frontend
+# Frontend
 
 ## Módulos
 
